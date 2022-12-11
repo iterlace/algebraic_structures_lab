@@ -86,7 +86,7 @@ def run_solovay_strassen():
     Sample input:
      - is_prime(19) = True
      - is_prime(10) = False
-     - is_prime(10, 1) = 0
+     - is_prime(2) = True
     """
 
     n = int(input("n: "))
