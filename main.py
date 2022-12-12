@@ -11,6 +11,8 @@ def run_pollard():
 
 def run_bsgs():
     """
+    g^x = h (mod p)
+
     Sample input:
      - bsgs(9, 150, 997) = None
      - bsgs(5, 8, 43) = 15
